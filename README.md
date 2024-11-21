@@ -9,7 +9,5 @@ Estou fazendo um "commit" remoto. ;D
 
 ## Site exemplo
 +1 alteração no repositório remoto (GitHubWeb) para commit no repositório local (git/GitHubDesktop)
-
 ## Aprendendo branch
-Sou o usuário 1 dando pitaco aqui. o Hulk está aqui também.
-
+Sou o usuário 2 e eu quero uma mamada de uma loira gostosa.
