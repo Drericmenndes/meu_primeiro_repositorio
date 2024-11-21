@@ -11,5 +11,5 @@ Estou fazendo um "commit" remoto. ;D
 +1 alteração no repositório remoto (GitHubWeb) para commit no repositório local (git/GitHubDesktop)
 
 ## Aprendendo branch
-Fazendo alterações no repositório local
+Sou o usuário 1 dando pitaco aqui. o Hulk está aqui também.
 
